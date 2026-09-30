@@ -1,16 +1,7 @@
 <div align="center">
 
-# Hey there! 👋 I'm **AKAZA**
-
-### Game Developer & Systems Programmer
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-akazaio-181717?style=for-the-badge&logo=github)](https://github.com/akazaio)
-
----
-
 ### 🛠️ Languages & Technologies
+
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
