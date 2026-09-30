@@ -33,8 +33,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akazaio&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6723&currStreakLabel=58a6ff)](https://github.com/akazaio)
 
----
-
-<img src="https://komarev.com/ghpvc/?username=akazaio&color=58a6ff&style=flat-square&label=Profile+Views" />
 
 </div>
